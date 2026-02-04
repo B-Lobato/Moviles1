@@ -1,4 +1,4 @@
-package com.example.movil23534.componentes
+/*package com.example.movil23534.componentes
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -40,4 +40,4 @@ fun Imagenes (){
 
     }
 
-}
+}*/
