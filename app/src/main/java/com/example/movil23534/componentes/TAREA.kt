@@ -363,4 +363,5 @@ fun PantallaGameOver(playAgain: () -> Unit, nombre: String) {
             Text("Play Again", modifier = Modifier.padding(16.dp), color = Color.White)
         }
     }
+
 }
